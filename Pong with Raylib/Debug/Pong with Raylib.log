@@ -1,0 +1,8 @@
+﻿  main.cpp
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(43,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(49,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(50,36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(67,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(105,30): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Unity\Projects\Pong with Raylib\Pong with Raylib\main.cpp(106,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Pong with Raylib.vcxproj -> E:\Unity\Projects\Pong with Raylib\Debug\Pong with Raylib.exe
